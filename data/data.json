@@ -1,0 +1,39 @@
+{
+    "title": "JAVA",
+    "description": "Author : Marino Miha",
+    "content": [
+      {
+        "header": "Introduction",
+        "listItems": [
+          "Qu' est ce que JAVA ?",
+          "Qu' est ce qu'un langage de programmation ?"
+        ]
+      },
+      {
+        "header": "Particularité de JAVA",
+        "text": "JAVA se distingue des autres langages de programmation car : ",
+        "listItems": [
+          "c'est un langage interprété",
+          "c'est un langage portable (Multiplateforme)",
+          "c'est un langage polyvalent (Web, Mobile, Desktop, IA, Traitement de données)"
+        ]
+      },
+      {
+        "header": "Les fondamentaux de Java",
+        "text" : "Pour pouvoir utiliser JAVA sur un ordinateur, il est nécessaire d'installer et de comprendre :",
+        "listItems": [
+          "JVM (Java Virtual Machine) : La JVM est le cœur de la plateforme Java. Elle exécute les programmes Java, indépendamment de la plateforme sur laquelle ils sont installés (Windows, macOS, Linux, etc.)",
+          "JRE (Java Runtime Environment) : Le JRE est un environnement d'exécution pour les applications Java. Il inclut tout ce qui est nécessaire pour exécuter un programme Java, mais pas pour le développer. il inclut les bibliotèques de classes ",
+          "JDK (Java Development Kit) : Le JDK est un ensemble d'outils et de bibliothèques nécessaires pour développer des applications Java. il inclut la JRE, le javac..."
+        ]
+      },
+      {
+        "header": "RoadMap pour apprendre JAVA",
+        "listItems" : [
+          "Apprendre les synthaxes de base : JAVA procédural",
+          "Apprendre l'Orienté Objet",
+          "Apprentissage par projet -> choix d'applications web, mobile, desktop -> choix de Framework"
+        ]
+      }
+    ]
+  }
